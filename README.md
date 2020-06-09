@@ -1,5 +1,7 @@
 # JPMORGAN CHASE SOFTWARE ENGINEERING VIRTUAL EXPERIENCE
 
+![screenshot_1](https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Technology%20Virtual%20Experience)
+
 ## Software Engineering Virtual Internship Experience Sponsored by JP Morgan Chase and Inside Sherpa.
 
 #### ▶️ Learnings and taskwork includes:
